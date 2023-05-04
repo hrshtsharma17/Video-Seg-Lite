@@ -1,0 +1,9 @@
+keras==2.9.0
+matplotlib==3.5.1
+numpy==1.23.1
+opencv_python==4.6.0.66
+Pillow==9.1.0
+Pillow==9.5.0
+scikit_learn==1.0.2
+tensorflow==2.9.2
+tqdm==4.64.0
