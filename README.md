@@ -1,8 +1,8 @@
-# CS-766: Optimized Video Object Segmentation for implementation over FPGAs
+# CS-766: Optimized Video Object Segmentation for Lite Firmware
 
 ## Introduction
 
-In this project, we perform the task of video object segmentation over images taken from various sources such as traffic cameras for identifying objects (vehicles in our case) using effective deep learning models and then implement viable models on an FPGA simulation through VIVADO and metric against task key metrics (like accuracy, mean IoU, Jaccard Score, etc) and constraint performance metrics like resource consumption (e.g. latency, DSP, LUT).
+In this project, we perform the task of video object segmentation over images taken from various sources such as traffic cameras for identifying objects (vehicles in our case) using effective deep learning models. Further, we implement and produce tests for the upcoming HLS4ML library for FPGA firmware via simulation through VIVADO and metric against task key metrics (like accuracy, mean IoU, Jaccard Score, etc) and constraint performance metrics like resource consumption.
 
 # Repository:
 - Modules: Contain standalone files containing codes for various parts of the project separately
