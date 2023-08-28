@@ -1,4 +1,4 @@
-# CS-766: Optimized Video Object Segmentation for Lite Firmware
+# Optimized Video Object Segmentation for Lite Firmware
 
 ## Introduction
 
